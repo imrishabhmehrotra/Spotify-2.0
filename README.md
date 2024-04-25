@@ -31,7 +31,7 @@ Key Features:
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/mrayushmehrotra/spotify-clone.git
+git clone https://github.com/imrishabhmehrotra/Spotify-2.0.git
 ```
 
 ### Install packages and Run Development Server
